@@ -1,5 +1,4 @@
-# pedrodev2025
-Hello How Are You?
+
 <img src="https://github-readme-stats.vercel.app/api?username=pedrodev2025&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <br/>  
